@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ebordenave
 - 👀 I’m interested in learning python
-- 🌱 I’m currently learning data structures & algorithms
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about data structures & algorithms
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me edward.bordenave@gmail.com
 
 <!---
