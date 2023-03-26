@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning python
 - 🌱 I’m currently learning about data structures & algorithms
 - 💞️ I’m looking to collaborate on open source projects
+- 🎮 I'm a huge Elden Ring Fan and long-time PC Gamer
 - 📫 How to reach me edward.bordenave@gmail.com
 
 <!---
