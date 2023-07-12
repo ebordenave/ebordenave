@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ebordenave
-- 👀 I’m interested in learning python
+- 👀 I’m interested in learning web development (JS, Python, React, Django, Flask etc.)
 - 🌱 I’m currently learning about data structures & algorithms
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me edward.bordenave@gmail.com
